@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.test1 {
+    background: red;
+    padding: 10px;
+}
+p {
+    background: #fff;
+}
